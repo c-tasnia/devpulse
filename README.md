@@ -2,7 +2,7 @@
 
 Internal Tech Issue & Feature Tracker — a collaborative platform for software teams to report bugs, suggest features, and coordinate resolutions.
 
-**Live URL:** https://devpulse-api.vercel.app
+**Live URL:** https://devpulse-virid.vercel.app
 
 ---
 
